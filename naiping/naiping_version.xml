@@ -4,12 +4,12 @@
     <item>
         <title>Version 0.0.0</title>
         <sparkle:version>0.0.0</sparkle:version>
-        <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
+        <enclosure url="https://github.com/naiping2023/version/naiping/naiping_0.0.0_arm64-v8a.apk" sparkle:version="0.0.0" />
     </item>
     <item>
         <title>Version 0.0.1</title>
         <sparkle:version>0.0.1</sparkle:version>
-        <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
+        <enclosure url="https://github.com/naiping2023/version/naiping/app-release.apk" sparkle:version="0.0.1" />
     </item>
   </channel>
 </rss>
