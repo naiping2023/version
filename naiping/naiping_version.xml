@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
-        <title>Version 0.0.1</title>
-        <sparkle:version>0.0.1</sparkle:version>
-        <enclosure url="https://github.com/naiping2023/version/raw/main/naiping/app-release.apk" sparkle:version="0.0.1" />
+        <title>Version 1.0.0</title>
+        <sparkle:version>1.0.0</sparkle:version>
+        <enclosure url="https://github.com/naiping2023/version/raw/main/naiping/app-arm64-v8a-release.apk" sparkle:version="1.0.0" />
     </item>
   </channel>
 </rss>
